@@ -10,3 +10,8 @@ install node.js, rodar os seguintes comandos:
 4- yarn add bootswatch
 
 5- yarn start
+
+
+
+Para criar a biblioteca de rotas, rodar o comando:
+yarn add react-router-dom
