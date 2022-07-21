@@ -24,12 +24,8 @@
 
 ## Description
 
+Beginning the study with NestJs. Understanding the concepts of service, controller and dto.
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
-
-Beginning the study with NestJs. 
-
-Understanding the concepts of service, controller and dto.
 
 ## Installation
 
