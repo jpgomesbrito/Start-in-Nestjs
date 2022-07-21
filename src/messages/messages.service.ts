@@ -33,7 +33,7 @@ export class MessagesService {
 
     const message: Message = {
       id,
-      ...messageDto,
+      ...messageDto, //copia toda as propriedades
     };
     this.messages.push(message);
     return message;
